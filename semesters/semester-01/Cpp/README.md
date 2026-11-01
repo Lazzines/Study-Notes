@@ -20,7 +20,7 @@
 | 09 | ООП. Наследование | [📄 PDF](<lectures/Lecture 9. ООП. Наследование (1).pdf>) |
 | 10 | ООП. Полиморфизм | [📄 PDF](<lectures/Lecture 10  ООП. Полиморфизм. (1).pdf>) |
 | 11 | Шаблоны классов и функций | [📄 PDF](<lectures/Lecture 11. Template. class and function - I (1).pdf>) |
-| 12 | Шаблоны. Часть II | [📄 PDF](<lectures/Lecture 12. Template - II (1).pdf>) |
+| 12 | Шаблоны. Часть II | [📄 PDF](https://github.com/Lazzines/Study-Notes/blob/main/semesters/semester-01/Cpp/lectures/Lecture%2012.%20%20Template%20-%20II%20(1).pdf) |
 
 ---
 
