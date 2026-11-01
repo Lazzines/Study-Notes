@@ -9,3 +9,6 @@
 | № | Предмет |
 | :---: | --- |
 | 01 | [C#](CSharp/README.md) |
+| 02 | [Базы данных (SQL)](Databases/README.md) |
+
+---
